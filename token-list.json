@@ -1,0 +1,15 @@
+[
+  {
+    "chainId": 101,
+    "address": "FD1VBbhgTXcNfvoFYqtrByXscaeVA3A1k8ghbFbcQpsw",
+    "symbol": "TAJ",
+    "name": "Taj The Beauty",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/bafybeihhv2jseokozmzfw5idqqwe3pjuql7qqxfukplckt7ckihiwjb5mu",
+    "tags": [
+      "utility-token",
+      "meme-token",
+      "community-token"
+    ]
+  }
+]
